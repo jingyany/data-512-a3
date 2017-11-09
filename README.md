@@ -46,41 +46,41 @@ Participants need to assign points between 6 attributes: attractiveness, sincere
 
 ## Data Analysis
 
-Statistis analysis will be the main method performed on the data. We will perform data transformation or data computation on the dataset to visualize the data properly. 
+#### Questions to Ask
+
+- What are the most desirable attributes in a female partner? What are the most desirable attributes in a male partner? Does this differ for female partners?
+- Which of the 6 attributes actually influence decision making?
+- What are correlation coefficient scores in Male and Female (attractiveness, sincerity, intelligence, fun, ambitious, shared interest)?
+- How important do people think attractiveness is in potential mate selection vs. its real impact?
+- Can people accurately predict their own perceived value in the dating market?
+- Are shared interests more important than a shared racial background?
+- Are shared occupation more important than a shared interests?
+- In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
+- Do people go out frequently tend to receive higher perceived value in the dating market?
+- How meeting orders influence decision making?
+
+#### Hypotheses
+
+The questions above will be grouped into two or three categories. we will come up with several hypotheses in each category.
 
 #### The analysis intended to perform:
 
-- What are the most desirable attributes in a female partner? What are the most desirable attributes in a male partner? Does this differ for female partners?
-
-We will get the total points of each attributes for male and female seperately. A bar chart will be appropriate here to compare the difference between attributes and gender.
-
-- How important do people think attractiveness is in potential mate selection vs. its real impact?
-- Are shared interests more important than a shared racial background?
-- Can people accurately predict their own perceived value in the dating market?
-- In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
-- What are participants looking for in their matches?
-- Which of the 6 attributes actually influence decision making?
-- What are correlation coefficient scores in Male and Female (attractiveness, sincerity, intelligence, fun, ambitious, shared interest)?
-- How meeting orders influence decision making?
+To test our hypotheses and answer questions, we perform a varienty of quantitative analyses on speed dating data. Different data visualizations and tables will be generated to answer questions above.
 
 #### Anticipated outcomes and deliverables
 
-For each question listed above, the anticipated outcomes will be one or more data visualizations. The experimental results will be compared with the initial hypothesis. We will then draw the conclustions based on each visualization and discuss the related human-centered problems.
+For each question listed above, the anticipated outcomes will be either a table showing the result of statistics analysis or data visualizations. Before conducting analysis on each questions, we will firstly make a hypothesis. The experimental results will be compared with the initial hypothesis. We will then draw the conclustions based on each visualization and discuss the related human-centered problems.
 
-## Project Dependencies
+## Limitations
 
-1. Data Cleaning
+1. The survey data is self-reported, and thus has limitations. We assume that participants are mostly honest.
 
-Based on the analysis we intend to perform, only related variables will be included. Missing values will also be either eliminated or filled with other values. Ideally, we will use pandas to pre-process the data into appropriate dataframe and get ready for data visualizations.
-
-2. Data Analysis
-
-It is necessary to preform some data transformation, data computation to answer those questions. 
-
-3. Data Visualization
-
-In order to convey information to audience effectively, we need to choose the appropriated methods to display visualizations. 
+2. Although the age and education level of each participant are also very important for this project, most participants are students in graduate school and professional school at Columbia University. We will not include age and education background in the analysis.
 
 ## Human-centered Aspects of The Project
 
+To find a significant other is a serious decision people face. First, the different decision made by male and femail in dating is a very interesting topic. Second, to determine if people really know what they want by comparing their self-reported answers to what actually influences peoples’ decisions is another interesting behavioral topic I'm interested in.
 
+This project is inspired by the paper, WP:Clubhouse? An Exploration of Wikipedia’s Gender Imbalance. I really like the way that authors approach a problem. I will use similar methods in this project. 
+
+I will discuss more human-centered aspects in my final presentation and report.
