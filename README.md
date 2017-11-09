@@ -10,6 +10,12 @@ As in all matching markets, determining dating preferences from equilibrium outc
 
 ## Data 
 
+#### Data Source
+
+Kaggle: Speed Dating Experiment (What attributes influence the selection of a romantic partner?)
+
+https://www.kaggle.com/annavictoria/speed-dating-experiment
+
 #### Data Collection
 
 The data set we will analyze in this project is named “Speed Dating Experiment”, as found on Kaggle.com. It was compiled by professors Ray Fisman and Sheena Iyengar from Columbia Business School, originally used for their paper “Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment.” It was generated from a series of experimental speed dating events from 2002 to 2004 and includes data related to demographics, dating habits, lifestyle information, an attribute evaluation questionnaire taken when the participants sign up, and each participant’s ratings for others during the 4 minute interactions. Finally, individuals were asked if they would like a second date with their partners and rated again on similar questions after the event, when matches have met with each other and dated for several times.
@@ -28,6 +34,27 @@ The raw dataset contains 195 colunms and 8370 rows. Most variables in the datase
 | field_code | categorical number |
 | race | categorical number |
 | interested_activities | text |
+
+The dataset also includes questionnaire data gathered from participants at different points in the process. These fields include: demographics, dating habits, self-perception across key attributes, beliefs on what others find valuable in a mate, and lifestyle information. See the Speed Dating Data Key document below for details.
+
+
+## Data Analysis
+
+The analysis we plan to perform:
+
+- What are the most desirable attributes in a female partner? What are the most desirable attributes in a male partner? Does this differ for female partners?
+- How important do people think attractiveness is in potential mate selection vs. its real impact?
+- Are shared interests more important than a shared racial background?
+- Can people accurately predict their own perceived value in the dating market?
+- In terms of getting a second date, is it better to be someone's first speed date of the night or their last?
+- What are participants looking for in their matches?
+- What paricipants think their same-sex peers are looking for?
+- What do participants think the opposite sex is looking for?
+- Which of the 6 attributes actually influence decision making?
+- What are correlation coefficient scores in Male and Female (attractiveness, sincerity, intelligence, fun, ambitious, shared interest)?
+- How meeting orders influence decision making?
+
+
 
 
 What is your plan? Describe the data sources will you collect, how data will be collected and processed, the analysis you intend to perform, and the outcomes and deliverables you anticipate.
