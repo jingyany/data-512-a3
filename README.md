@@ -40,7 +40,11 @@ The dataset also includes questionnaire data gathered from participants at diffe
 
 ## Data Analysis
 
-The analysis we plan to perform:
+#### The Hypothesises:
+
+Several intended analysis are listed below. We will make our own assumption to each question before conducting the analysis. 
+
+#### The analysis intended to perform:
 
 - What are the most desirable attributes in a female partner? What are the most desirable attributes in a male partner? Does this differ for female partners?
 - How important do people think attractiveness is in potential mate selection vs. its real impact?
@@ -54,7 +58,19 @@ The analysis we plan to perform:
 - What are correlation coefficient scores in Male and Female (attractiveness, sincerity, intelligence, fun, ambitious, shared interest)?
 - How meeting orders influence decision making?
 
+#### Anticipated outcomes and deliverables
 
+For each question listed above, the anticipated outcomes will be one or more data visualizations. The experimental results will be compared with the initial hypothesis. We will then draw the conclustions based on each visualization and discuss the related human-centered problems.
 
+## Project Task Dependencies
 
-What is your plan? Describe the data sources will you collect, how data will be collected and processed, the analysis you intend to perform, and the outcomes and deliverables you anticipate.
+1. Data Cleaning
+Based on the analysis we intend to perform, only related variables will be included. Missing values will also be either eliminated or filled with other values. Ideally, we will use pandas to pre-process the data into appropriate dataframe and get ready for data visualizations.
+
+2. Data Analysis
+It is necessary to preform some data transformation, data computation to answer those questions. 
+
+3. Data Visualization
+In order to convey information to audience effectively, we need to choose the appropriated methods to display visualizations. 
+
+## Human-centered Aspects of The Project
