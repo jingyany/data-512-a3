@@ -65,12 +65,15 @@ For each question listed above, the anticipated outcomes will be one or more dat
 ## Project Task Dependencies
 
 1. Data Cleaning
+
 Based on the analysis we intend to perform, only related variables will be included. Missing values will also be either eliminated or filled with other values. Ideally, we will use pandas to pre-process the data into appropriate dataframe and get ready for data visualizations.
 
 2. Data Analysis
+
 It is necessary to preform some data transformation, data computation to answer those questions. 
 
 3. Data Visualization
+
 In order to convey information to audience effectively, we need to choose the appropriated methods to display visualizations. 
 
 ## Human-centered Aspects of The Project
