@@ -2,9 +2,7 @@
 
 ## Backgroud
 
-The choice of a marriage partner is one of the most serious decisions people face. In contemporary Western societies, this
-decision usually follows a long learning period during which people engage in more informal and often polygamous relationships
-dating. However, in today’s busy world, finding and dating a romantic partner seems more time consuming than ever. As a result, many people have turned to speed dating as a solution that allows one to meet and interact with a large number of potential partners in a short amount of time. 
+To choose a marriage partner is one of the most serious decisions people make. This decision usually follows a long learning period during which people engage in more informal dating in modern society. However, in today’s busy world, it's more time consuming than ever to find and date a romantic partner. As a result, many people have turned to speed dating as a solution that allows one to meet and interact with a large number of potential partners in a short amount of time. Speed dating is well-established format in the U.S. Back to 2004, only eight dating companies exist. Now, there are more than 30 dating companies to provide easier and faster ways for people to find their partners. 
 
 As in all matching markets, determining dating preferences from equilibrium outcomes is difficult because a given correlation of attributes across partners is often consistent with various preference structures. In this project, we want to explore what people are looking for in their speed dating matches, what it takes to become successful in getting approvals from a potential partner, if there exist any gender differences in dating preferences, and if any other factors influence peoples’ decisions. Also, we would like to determine if people really know what they want by comparing their self-reported answers to what actually influences peoples’ decisions.
 
@@ -13,9 +11,12 @@ As in all matching markets, determining dating preferences from equilibrium outc
 
 #### Data Source
 
-Kaggle: Speed Dating Experiment (What attributes influence the selection of a romantic partner?)
+Speed Dating Experiment (What attributes influence the selection of a romantic partner?)
 
 https://www.kaggle.com/annavictoria/speed-dating-experiment
+
+Kaggle [Term of Use](https://www.kaggle.com/terms)
+Kaggle [Privacy Policy](https://www.kaggle.com/about/privacy)
 
 #### Data Collection
 
@@ -77,6 +78,8 @@ For each question listed above, the anticipated outcomes will be either a table 
 
 2. Although the age and education level of each participant are also very important for this project, most participants are students in graduate school and professional school at Columbia University. We will not include age and education background in the analysis.
 
+3. The data was collected from 2002 to 2004. We can assume that the data and result of analysis will still be similar to people's dating preferences today.
+
 ## Human-centered Aspects of The Project
 
 To find a significant other is a serious decision people face. First, the different decision made by male and femail in dating is a very interesting topic. Second, to determine if people really know what they want by comparing their self-reported answers to what actually influences peoples’ decisions is another interesting behavioral topic I'm interested in.
@@ -84,3 +87,11 @@ To find a significant other is a serious decision people face. First, the differ
 This project is inspired by the paper, WP:Clubhouse? An Exploration of Wikipedia’s Gender Imbalance. I really like the way that authors approach a problem. I will use similar methods in this project. 
 
 I will discuss more human-centered aspects in my final presentation and report.
+
+## References
+
+Racial Preferences in Dating: Evidence from a Speed Dating Experiment
+Raymond J.Fisman - Sheena S.Iyengar - Emir Kamenica - Itamar Simonson - SSRN Electronic Journal - 2004
+
+Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment
+R. Fisman - S. S.Iyengar - E. Kamenica - I. Simonson - The Quarterly Journal of Economics - 2006
